@@ -1,3 +1,6 @@
 Burger
 Salad 
 Rice 
+hi
+bye 
+hello world
